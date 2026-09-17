@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 define('APP_NAME', 'DBLiteAdmin');
-define('APP_VERSION', '4.1.0');
+define('APP_VERSION', '1.0.0');
 define('AUTH_PASSWORD', '');
 
 if (!extension_loaded('pdo_sqlite')) {
